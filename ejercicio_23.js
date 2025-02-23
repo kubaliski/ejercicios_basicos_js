@@ -27,7 +27,7 @@ for (const movie of movies) {
     }
 }
 
-// Corrección 5: mejorar el formato de salida
+
 console.log('Películas cortas:', pequeñas.join(', '));
 console.log('Películas medianas:', medianas.join(', '));
 console.log('Películas largas:', grandes.join(', '));
